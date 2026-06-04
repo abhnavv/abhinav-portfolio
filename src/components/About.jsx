@@ -33,7 +33,7 @@ export default function About() {
             transition={{ duration: 0.5, delay: 0.2 }}
             style={{ color: 'var(--text-muted)', fontSize: '1.1rem', lineHeight: 1.7, marginBottom: '2rem' }}
           >
-            I'm a final-year B.Tech CSE student (Lateral Entry) who loves turning ideas into real-world products. I enjoy solving problems, learning new technologies, and building clean, efficient, and scalable applications.
+            I'm a B.Tech CSE Graduate (Lateral Entry) passionate about turning ideas into real-world products. I enjoy solving problems, learning new technologies, and building clean, efficient, and scalable applications.
           </motion.p>
 
           <motion.ul 

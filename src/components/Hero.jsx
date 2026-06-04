@@ -56,7 +56,7 @@ export default function Hero() {
           transition={{ duration: 0.5, delay: 0.2 }}
           style={{ fontSize: '1.8rem', color: 'var(--text-muted)', marginBottom: '2rem', fontWeight: 400 }}
         >
-          Final-year B.Tech CSE student aspiring<br/>
+          B.Tech CSE Graduate<br/>
           <span style={{ color: 'var(--accent-blue)', fontWeight: 600 }}>MERN Stack Developer.</span>
         </motion.h3>
         <motion.p

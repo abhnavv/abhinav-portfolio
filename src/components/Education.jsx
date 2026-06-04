@@ -8,7 +8,7 @@ const educationData = [
     institution: 'Govt. Engineering College Wayanad · Lateral Entry',
     period: '2023 - 2026',
     score: 'CGPA: 7.9',
-    details: 'Specializing in software engineering, algorithms, database systems, and full-stack web applications. Participated in technical projects and coding hackathons.',
+    details: 'Graduated with strong foundations in software engineering, algorithms, database systems, and full-stack web applications. Participated in technical projects and coding hackathons.',
     icon: <GraduationCap size={22} />
   },
   {
