@@ -48,7 +48,7 @@ function App() {
           transition: 'all 0.4s cubic-bezier(0.4, 0, 0.2, 1)'
         }}>
           <div style={{ fontWeight: 800, fontSize: '1.5rem', letterSpacing: '1px', fontFamily: 'Outfit' }}>
-            ABHINAV<span style={{ color: 'var(--accent-blue)' }}>.</span>
+            ABHINAV P K<span style={{ color: 'var(--accent-blue)' }}>.</span>
           </div>
 
           {/* Desktop Nav */}
