@@ -3,8 +3,34 @@ import { motion, useScroll, useTransform } from 'framer-motion';
 import { Github, ExternalLink } from 'lucide-react';
 
 const projects = [
+  
+{
+  id: "01",
+  title: "Bookstore Application",
+  subtitle: "AI-Powered Online Bookstore",
+  category: "FULL STACK / E-COMMERCE",
+  year: "2026",
+  desc: "A full-stack online bookstore platform featuring book listing, searching, filtering, and management with secure authentication and role-based access control. Integrated Google OAuth, JWT authentication, Stripe payment processing, and Multer for image uploads. Uses Gemini AI to generate book abstracts and enhance the book discovery experience.",
+  tech: [
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Redux Toolkit",
+    "Google OAuth",
+    "JWT",
+    "Multer",
+    "Stripe",
+    "Gemini AI"
+  ],
+  image: "/bookstore_project.png",
+  color: "#f59e0b",
+  live: "https://bookstore-three-blush.vercel.app",
+  github: "https://github.com/abhnavv/Bookstore"
+},
+
   {
-    id: "01",
+    id: "02",
     title: "SHIELD",
     subtitle: "Real-Time Disaster Prediction",
     category: "AI / ML SYSTEM",
@@ -15,19 +41,6 @@ const projects = [
     color: "#3b82f6",
     live: "#",
     github: "https://github.com/abhnavv/SHIELD"
-  },
-  {
-    id: "02",
-    title: "Quantum Vault",
-    subtitle: "Cross-Platform Password Manager",
-    category: "SECURITY / FULL STACK",
-    year: "2025",
-    desc: "A secure cross-platform password manager with end-to-end encryption, role-based access control, multi-factor authentication, and comprehensive admin analytics dashboard.",
-    tech: ["React", "Node.js", "MongoDB", "Encryption", "MFA"],
-    image: "/quantumvault_project.png",
-    color: "#8b5cf6",
-    live: "#",
-    github: "#"
   },
   {
     id: "03",

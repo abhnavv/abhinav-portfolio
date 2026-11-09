@@ -50,7 +50,7 @@ export default function About() {
           </motion.ul>
 
           <motion.a 
-            href="/ABHINAVPK.pdf" 
+            href="/ABHINAV_PK_Resume.pdf" 
             download="ABHINAVPK_Resume.pdf"
             className="glass-panel"
             initial={{ opacity: 0, y: 20 }}

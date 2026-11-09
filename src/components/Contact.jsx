@@ -176,7 +176,7 @@ export default function Contact() {
                   </a>
                 </li>
                 <li>
-                  <a href="https://github.com/abhinavv" style={{ display: 'inline-flex', alignItems: 'center', gap: '8px' }}>
+                  <a href="https://github.com/abhnavv" style={{ display: 'inline-flex', alignItems: 'center', gap: '8px' }}>
                     <Github size={16} /> GitHub
                   </a>
                 </li>

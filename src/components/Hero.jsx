@@ -77,7 +77,7 @@ export default function Hero() {
           <a href="#projects" style={{ padding: '14px 28px', fontWeight: 600, color: '#fff', background: 'var(--accent-blue)', borderRadius: '8px', transition: 'all 0.3s', display: 'flex', alignItems: 'center', gap: '8px', boxShadow: '0 10px 20px rgba(59, 130, 246, 0.3)' }}>
             View My Work ↗
           </a>
-          <a href="/ABHINAVPK.pdf" download="ABHINAVPK_Resume.pdf" className="glass-panel" style={{ padding: '14px 28px', fontWeight: 600, color: '#fff', transition: 'all 0.3s', display: 'flex', alignItems: 'center', gap: '8px' }}>
+          <a href="/ABHINAV_PK_Resume.pdf" download="ABHINAVPK_Resume.pdf" className="glass-panel" style={{ padding: '14px 28px', fontWeight: 600, color: '#fff', transition: 'all 0.3s', display: 'flex', alignItems: 'center', gap: '8px' }}>
             Download Resume ↓
           </a>
         </motion.div>
